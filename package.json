@@ -2,7 +2,8 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": "",
-  "main": "3.无重复字符的最长子串.js",
+  "main": "",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
