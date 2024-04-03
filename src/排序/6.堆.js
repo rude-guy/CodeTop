@@ -43,7 +43,7 @@ function heapSort(arr) {
 }
 
 const arr = [5, 2, 7, 3, 6, 1, 4];
-heapSort(arr);
+heapSort([3, 2, 1, 5, 6, 4]);
 
 //     5
 //   2   7
